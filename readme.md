@@ -1,5 +1,9 @@
 # Tank War
 
+**group:22**
+
+**member:李一**
+
 ## Game world
 **Tanks**: a total of two, each tank is divided into turret, tank cap, body and two tracks, when the tank stay in place is to issue the engine idling sound, when the tank is running when the engine running sound
 
